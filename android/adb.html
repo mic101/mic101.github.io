@@ -1,0 +1,26 @@
+wifiadb需要root权限
+1、wifi打开adb调试（需要root)
+Android设备上下载一个虚拟终端，在终端中输入以下命令：
+
+su 获取root权限
+
+setprop service.adb.tcp.port 5555 设置adbd服务的端口号配置
+
+stop adbd
+
+start adbd
+
+然后在需要链接的PC端输入:
+
+adb connect ipAddress(your phone's ip Address).
+
+连接成功的话显示：
+
+connected to ipAddress:5555
+
+2、usb调试
+usb连接上即可
+
+引申问题：
+1、用代码如何检测手机开启root？
+2、自己写一个wifiadb工具
