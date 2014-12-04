@@ -1,4 +1,5 @@
-CTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>items</key>
@@ -16,9 +17,9 @@ CTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/Prop
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.wukong.remote</string>
+				<string>com.wukongtv.remote</string>
 				<key>bundle-version</key>
-				<string>1.1.6</string>
+				<string>1.1.61</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
