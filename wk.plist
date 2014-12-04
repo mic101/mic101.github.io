@@ -1,0 +1,31 @@
+CTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://113.11.199.42/wukongtv/remote.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.wukong.remote</string>
+				<key>bundle-version</key>
+				<string>1.1.6</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>悟空遥控器</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
+
